@@ -1,4 +1,3 @@
-
 /*
   Rock Paper Scissors
   Concepts covered in this project
